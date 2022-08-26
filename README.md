@@ -30,6 +30,7 @@ Run the scraper using Python:
     ```
     python main.py --generate https://welook.io/moments/59601
     ```
+
 Check the `/images` and `/poap-img` folders to see the results.
 ## Contributing 
 PRs and issues are always welcome. Feel free to submit any issues you have at: [https://github.com/tadeodonegana/welook-moments-scraper/issues](https://github.com/tadeodonegana/welook-moments-scraper/issues)
